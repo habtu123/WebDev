@@ -1,7 +1,7 @@
 BASIC TYPES
 ============
 - Syntax
-
+adfasdfsdfsdfsdfsdfsdfsf
 - boolean
     let isDone: boolean = false;
 - number : all numbers in type script are floating point values
@@ -140,12 +140,12 @@ VARIABLE DECLARATION
         let hello = "Hello";
 
     - Block-Scoping: unlike var variables whose scopes leak out of the
-        containging funciton, block-scoped variables are not visible
-        outside their nearest containging block or for -loop
+        containging funciton, block-adasdfsdfscoped vadfasdfsdadariables are not visible
+        outside theiadfadsfadsdsfr nearest containging block or for -loop
 
-        function f (input: boolean) {
+        functionadfasdfasdfa f (input: boolean) {
             let a = 100;
-
+adfadsfasdfasdf
             if (input) {
                 // Still okay to reference 'a'
                 let b = a + 1;
